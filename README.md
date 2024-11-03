@@ -16,7 +16,7 @@ The **Smart Medicine Dispenser** is an IoT-based device developed to assist pati
 - **Real-Time Clock (RTC)**: Keeps track of dosing schedules
 - **Buzzer**: Notifies the user with sound alerts
 - **LED**: Indicates status (e.g., Green for ready, Red for refill required)
-- **Display**: (Optional) Shows the time, date, and dosing schedule on an LCD screen
+
 
 ## Wiring
 
@@ -28,7 +28,7 @@ The **Smart Medicine Dispenser** is an IoT-based device developed to assist pati
 | Buzzer           | 15                  | Provides sound alert             |
 | LED (Green)      | 23                  | Indicates the ready state        |
 | LED (Red)        | 19                  | Indicates low medication level   |
-| Button           | 13                  | Manual dispense button (optional)|
+| Button           | 13                  | Manual dispense button           |
 
 ## How It Works
 
