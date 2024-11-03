@@ -11,7 +11,7 @@ The **Smart Medicine Dispenser** is an IoT-based device developed to assist pati
 
 ## Components Used
 
-- **Microcontroller**: ESP32 (or Arduino if specified)
+- **Microcontroller**: ESP32 
 - **Servo Motor**: Controls the compartment openings
 - **Real-Time Clock (RTC)**: Keeps track of dosing schedules
 - **Buzzer**: Notifies the user with sound alerts
